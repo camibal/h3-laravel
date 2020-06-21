@@ -1,0 +1,19 @@
+{
+    "REGISTRO":"REGISTER",
+    "REGISTRO FACTURA":"REGISTER INVOICE",
+    "Nombre":"Name",
+    "Correo":"Email",
+    "Concepto":"Concept",
+    "Tipo de identificaciòn":"ID Type",
+    "identificaciòn":"ID",
+    "YA ESTOY REGISTRADO":"I'm already registered",
+    "Registrarme":"Register",
+    "Identificaciòn factura":"Invoice identification",
+    "Fecha":"Date",
+    "Valor a Pagar":"Amount to be paid",
+    "REGISTRAR NUEVO USUARIO":"REGISTER NEW USER",
+    "Confirmar":"Confirm",
+    "La factura ya esta registrada":"The invoice is already registered",
+    "Archivos permitidos (.pdf)":"Allowed files (.pdf)",
+    "Adjuntar archivo":"Attach file"
+}
